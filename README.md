@@ -25,7 +25,7 @@ A look at the Scene Window in Unity: <br/>
 <br />
 <br />
  Image Target where House AR is tracked: <br/>
-<img src="https://i.ibb.co/4nVzT4fv/Screenshot-2025-05-18-044523.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/bV6NW2q/Image-Target.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 When Pressed Play:  <br/>
